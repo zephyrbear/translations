@@ -978,25 +978,25 @@ msgstr "格雷迈恩版本"
 #, fuzzy
 #| msgid "Dehaka Patch"
 msgid "D.Va Patch"
-msgstr "德哈卡版本"
+msgstr "D.Va版本"
 
 #: masterleague/lc_strings.py:92
 #, fuzzy
 #| msgid "Valeera Patch"
 msgid "Malthael Patch"
-msgstr "瓦莉拉版本"
+msgstr "马萨伊尔版本"
 
 #: masterleague/lc_strings.py:93
 #, fuzzy
 #| msgid "Samuro Patch"
 msgid "Stukov Patch"
-msgstr "萨穆罗版本"
+msgstr "斯托科夫版本"
 
 #: masterleague/lc_strings.py:94
 #, fuzzy
 #| msgid "Ragnaros Patch"
 msgid "Garrosh Patch"
-msgstr "拉格纳罗斯版本"
+msgstr "加尔鲁什版本"
 
 #: masterleague/lc_strings.py:98
 msgid "Abathur"
@@ -1264,19 +1264,19 @@ msgstr "源氏"
 
 #: masterleague/lc_strings.py:164
 msgid "D.Va"
-msgstr ""
+msgstr "D.Va"
 
 #: masterleague/lc_strings.py:165
 msgid "Malthael"
-msgstr ""
+msgstr "马萨伊尔"
 
 #: masterleague/lc_strings.py:166
 msgid "Stukov"
-msgstr ""
+msgstr "斯托科夫"
 
 #: masterleague/lc_strings.py:167
 msgid "Garrosh"
-msgstr ""
+msgstr "加尔鲁什"
 
 #: matches/forms.py:18 matches/forms.py:24 matches/forms.py:30
 #: matches/forms.py:36 teams/forms.py:113
@@ -1945,7 +1945,7 @@ msgstr "选手名单"
 
 #: teams/forms.py:178
 msgid "Disbanded or changed a sponsor"
-msgstr ""
+msgstr "已解散或已更换赞助商"
 
 #: teams/forms.py:181
 #, fuzzy
@@ -2180,12 +2180,12 @@ msgstr "总共被选的%(pick_count)s场中的%(win_count)s场"
 #: teams/templates/teams/team_overview.html:103
 #, python-format
 msgid "Deaths: %(deaths)s"
-msgstr ""
+msgstr "死亡数：%(deaths)s"
 
 #: teams/templates/teams/team_overview.html:104
 #, python-format
 msgid "Takedowns: %(takedowns)s"
-msgstr ""
+msgstr "击杀数：%(takedowns)s"
 
 #: teams/templates/teams/team_overview.html:111
 #, fuzzy, python-format
@@ -2231,7 +2231,7 @@ msgstr "英雄"
 
 #: teams/templates/teams/team_overview.html:223
 msgid "FP win rate"
-msgstr ""
+msgstr "首选胜率"
 
 #: teams/templates/teams/team_overview.html:227
 #, fuzzy
@@ -2243,14 +2243,14 @@ msgstr "死亡时间"
 #, fuzzy
 #| msgid "Dehaka Patch"
 msgid "Avg. match"
-msgstr "德哈卡版本"
+msgstr "平均比赛时长"
 
 #: teams/templates/teams/team_overview.html:237
 #, python-format
 msgid ""
 "* KDA, time spend dead and average match time are based on the analysis of "
 "the %(replay_count)s replays out of %(match_count)s matches"
-msgstr ""
+msgstr "击杀死亡率、死亡时间及平均比赛时长是基于总计%(match_count)s场比赛中有录像的%(replay_count)s场分析得来的。"
 
 #: teams/templates/teams/team_overview.html:251
 #, fuzzy
@@ -2385,7 +2385,7 @@ msgstr ""
 
 #: templates/base.html:286
 msgid "I understood"
-msgstr ""
+msgstr "我了解"
 
 #: templates/base.html:328
 msgid "Help us localize the site!"

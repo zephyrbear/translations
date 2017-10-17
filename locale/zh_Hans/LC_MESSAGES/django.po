@@ -434,7 +434,7 @@ msgstr "击杀"
 #: heroes/templates/heroes/hero_counters.html:25
 #, fuzzy
 msgid "Kills per match"
-msgstr "所有版本"
+msgstr "每场比赛击杀数"
 
 #: heroes/templates/heroes/hero_detail.html:5
 msgid "statistics"
